@@ -4,6 +4,7 @@
 
 <head>
     <h1> Trevor Nguyen </h1>
+    <img src="G:\@UW 2022 SPRING\458\picture.jpg" alt = "Self Portrait">
 <ul>
 <li> <a href = "https://uw.joinhandshake.com/stu/users/16106676"> Handshake Profile </a> </li>
 
@@ -14,7 +15,7 @@
 <body>
 <div>
     <h1> Employment History </h1>
-    <strong> Esport Multimedia Outreach Coordinator (2021 - Present)</strong>
+    <h4> <strong> Esport Multimedia Outreach Coordinator (2021 - Present)</strong> </h4>
     <ul> 
     <li> Host in-person esport events (Microphone & all) </li>
     <li> Develop multi-media marketing campaigns </li>
