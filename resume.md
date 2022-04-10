@@ -4,7 +4,7 @@
 
 <head>
     <h1> Trevor Nguyen </h1>
-    <img src="/picture.jpg" alt = "Self Portrait" height= "400">
+    <img src="picture.jpg" alt = "Self Portrait" height= "400">
 <ul>
 <li> <a href = "https://uw.joinhandshake.com/stu/users/16106676"> Handshake Profile </a> </li>
 
