@@ -1,1 +1,0 @@
-# tribiab.github.io
