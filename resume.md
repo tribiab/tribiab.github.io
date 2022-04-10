@@ -13,7 +13,7 @@
 
 <body>
 <div>
-    <h3> Employment History </h3>
+    <h1> Employment History </h1>
     <strong> Esport Multimedia Outreach Coordinator (2021 - Present)</strong>
     <ul> 
     <li> Host in-person esport events (Microphone & all) </li>
@@ -29,10 +29,11 @@
 </div>
 
 <div>
-    <h3> Education </h3>
+    <h1> Education </h1>
     <ul>
         <li> University of Washington (2018 - 2022) </li>
         <li> North Seattle College (2015 - 2017) </li>
+        <li>Ingraham High School (2014 - 2017) </li>
     </ul>
 
 </div>
