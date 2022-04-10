@@ -7,7 +7,7 @@
 <ul>
 <li> <a href = "https://uw.joinhandshake.com/stu/users/16106676"> Handshake Profile </a> </li>
 
-<li> <a href = "https://www.linkedin.com/in/trevor-nguyen-7a9549230/"> Linkdln Profile </a> </li>
+<li> <a href = "https://www.linkedin.com/in/trevor-nguyen-7a9549230/"> LinkdIn Profile </a> </li>
 </ul>
 </head>
 
