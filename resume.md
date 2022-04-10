@@ -16,7 +16,7 @@
 </head>
 
 
-<body style="background-color:grey;">
+<body style="background-color:#212F3C;">
 <div>
     <h1> Employment History </h1>
     <h4> <strong> Esport Multimedia Outreach Coordinator (2021 - Present)</strong> </h4>
